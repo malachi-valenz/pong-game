@@ -205,7 +205,7 @@ async def main():
             endscreen = winning_font.render("PLAYER 1 WON!!!!", True, WHITE)
             screen.blit(endscreen, (200, 250))
 
-        if player_2 >= 3:
+        elif player_2 >= 3:
             screen.fill((0, 0, 0))
             endscreen = winning_font.render("PLAYER 2 WON!!!!", True, WHITE)
             screen.blit(endscreen, (200, 250))
