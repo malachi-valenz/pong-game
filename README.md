@@ -28,6 +28,6 @@ python pong.py
 
 First to 3 points wins!
 
-
+### **Note: Don't worry about the build files, those are for my portfolio!
 
 Enjoy!
